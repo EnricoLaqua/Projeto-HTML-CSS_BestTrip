@@ -1,0 +1,55 @@
+body{
+	background: #fff;
+	font: 16px Arial, Helvetica, sans-serif;
+	display: table-cell;
+    vertical-align: middle;
+
+}
+
+#principal {
+	width: 50%;
+	max-width: max-content;
+	margin: auto;
+
+}
+
+#menu {
+	background: #d2d2c1;
+	padding: 18px;
+	
+}
+
+#conteudo {
+	background: #fff;
+	padding: 10px;
+	
+}
+
+#rodape {
+	text-align: center;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	width: 100%;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+h2 {
+	color: #828288;
+	font-size: 1.0em;
+}
